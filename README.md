@@ -10,9 +10,8 @@ Swipe left and right to view player with poster image and skippable advertisemen
 2. Include TheoPlayer .aar file
 
 ### How to run application
-1. Install the apk found in build\outputs\apk\debug\
-2. Minimum Android version to run application 21 (Lollipop)
-3. Make sure internet is working
+1. Minimum Android version to run application 21 (Lollipop)
+2. Make sure internet is working
 
 
 
