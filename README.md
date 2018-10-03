@@ -12,7 +12,7 @@ Swipe left and right to view player with poster image and skippable advertisemen
 
 ### How to run application
 1. Minimum Android version to run application 21 (Lollipop)
-2. Make sure internet is working
+2. It is assumpted that internet is working
 
 
 
