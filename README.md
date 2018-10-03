@@ -3,6 +3,7 @@
 This demo demonstrates implementation of features
 1. Player with poster image 
 2. Player with skippable advertisement
+
 Swipe left and right to view player with poster image and skippable advertisement respectively  
 
 ## Prerequisites
